@@ -1,0 +1,6 @@
+table{ /*Coller les bordures des td et th*/
+    border-collapse: collapse;  
+}
+td, th{ /*Mattre une bordure sur les td et th*/
+    border: 1px solid black;
+}
